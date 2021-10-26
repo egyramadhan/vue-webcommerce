@@ -13,7 +13,7 @@
     }
   }
 
-  .profile-picure {
+  .profile-picture {
     max-width: 45px;
   }
 
@@ -28,9 +28,8 @@
     color: #fefefe;
     margin-left: -10px;
   }
-
-  .navbar-fixed-top.scrolled {
-    background-color: #ffff;
-    transition: background-color 200ms linear;
-  }
+}
+.navbar-fixed-top.scrolled {
+  background-color: #ffff;
+  transition: background-color 200ms linear;
 }
